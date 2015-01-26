@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BD477B48-9F43-4B76-ABAF-64CAC80F9C7E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Declining App</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B483140215344EB869EBAAE51EE31A7257DACF1F</key>
+		<string>https://github.com/CurrrBell/DecliningApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Declining App/Declining App.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B483140215344EB869EBAAE51EE31A7257DACF1F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CurrrBell/DecliningApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B483140215344EB869EBAAE51EE31A7257DACF1F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B483140215344EB869EBAAE51EE31A7257DACF1F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DecliningApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
